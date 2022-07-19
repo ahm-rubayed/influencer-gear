@@ -233,7 +233,7 @@ footer p {
 
 /* Tablet Devices */
 @media screen and (max-width: 1400px) {
-    .gear .col:nth-child(2)  {
+    .gear .col:nth-child(2) {
         margin-left: 2rem;
     }
 }
